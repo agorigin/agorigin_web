@@ -218,6 +218,7 @@
 }
 .btco-hover-menu a, .navbar > li > a { 
     color: #fff; 
+    width: 80%;
 }
 .icons-header-mobile{
     position: absolute;

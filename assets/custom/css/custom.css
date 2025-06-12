@@ -3253,6 +3253,11 @@ a.toggle-menu{
     overflow: hidden;
     position: relative; 
 }
+.image-container-prods{ 
+    height: 210px;
+    overflow: hidden;
+    position: relative; 
+}
 .image-container-abhay{ 
     height: 410px;
     overflow: hidden;
